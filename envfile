@@ -1,0 +1,3 @@
+SHARED_SECRET=xpto
+ZONE=thiagozs.com
+RECORD_TTL=3600
